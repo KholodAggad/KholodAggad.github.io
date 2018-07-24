@@ -1373,7 +1373,7 @@ body {
   display: none;
 }
 .cid-qY9rJIYtnG {
-  background-image: url("../../../assets/images/mbr-1-1920x1370.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1285.jpg");
 }
 .cid-qY9rJIYtnG h1 {
   color: #616161;
@@ -1387,7 +1387,10 @@ body {
   font-style: italic;
 }
 .cid-qY9rJIYtnG P {
-  color: #ffffff;
+  color: #ff7f9f;
+}
+.cid-qY9rJIYtnG B {
+  color: #5b686b;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
